@@ -111,7 +111,7 @@ const Footer = () => {
             </a>
             <a
               className="transition-all duration-500 hover:scale-150"
-              href="https://www.facebook.com/XSeka10X"
+              href="https://www.facebook.com/profile.php?id=100014948612662&mibextid=ZbWKwL"
               aria-label="Facebook"
             >
               <FaFacebook className="text-3xl" />
